@@ -47,6 +47,7 @@ Example-iOS-Apps is an amazing list for people who are begginers and learning io
 * [Yep](https://github.com/CatchChat/Yep) - A community where geniuses meet.
 * [TweedleDumb](https://github.com/IanKeen/TweetleDumb) - A mock Twitter client built with MVVM and NavigationControllers. Small codebase, built with best practices in mind to demonstrate said practices. Great for learning purposes.
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) - Simple and beautiful barcode scanner.
+* [Messenger](https://github.com/relatedcode/Messenger) - This is a native iOS Messenger app, making realtime chat conversations and audio calls with full offline support.
 
 ## Author
 
